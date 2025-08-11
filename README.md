@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kunal-in.netlify.app/](https://kunal-in.netlify.app/)
 
-- 💬 Ask me about **Full stack, Front-end**
+- 💬 Ask me about **Full stack, Backend , Javascript**
 
 - 📫 How to reach me **kk811464@gmail.com**
 
