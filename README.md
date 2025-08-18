@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal8615&label=Profile%20views&color=0e75b6&style=flat" alt="kunal8615" /> </p>
 
-
-- 🌱 I’m currently learning **Node JS (Backend)** & **Native React**
-
 - 👨‍💻 All of my projects are available at [https://kunal-in.netlify.app/](https://kunal-in.netlify.app/)
 
 - 💬 Ask me about **Full stack, Backend , Javascript**
